@@ -11,6 +11,6 @@ You could directly modify the `init.lua` file with your personal customizations.
 
 <p align="center">
   <img width="600"
-       alt="Alacritty - A fast, cross-platform, OpenGL terminal emulator"
-       src="https://github.com/richardbendli/alacritty/blob/main/img/alacritty.png">
+       alt="nvim"
+       src="https://github.com/richardbendli/nvim/blob/main/img/nvim.png">
 </p>
